@@ -44,6 +44,8 @@ Found 7 items
 ubuntu@rc1a-dataproc-m-l4pt8hvd0bnpfgh6:~$ 
 
 сохранили картинку из хадупа
+![Снимок экрана 2025-03-02 hadoop](https://github.com/user-attachments/assets/0f26078f-487d-4917-a47d-680ca8652900)
+
 
 
 готовим GitHub для сохранения scripts
